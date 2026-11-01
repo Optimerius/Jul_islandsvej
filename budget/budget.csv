@@ -1,0 +1,17 @@
+aar,zone,kategori,post,budget_kr,faktisk_kr,status,note
+2026,A,lys,Istaplyskæder facade,500,,Planlagt,Længde skal måles
+2026,B,lys,Carportlyskæder og granguirlander,700,,Planlagt,Kun carport og indgang
+2026,A+B,styring,To udendørs smart-stik,350,,Planlagt,HA kompatibilitet afklares
+2026,A+B,installation,Kabler fordeling og clips,600,,Planlagt,Udendørs godkendt
+2026,A+B,reserve,Småting og uforudset,350,,Planlagt,
+2027,D,planter,Levende små juletræer,1350,,Foreløbig,Plantes permanent
+2027,D,lys,Varmhvide lys til træer,600,,Foreløbig,Lavvolt foretrækkes
+2027,C,lys,Eventuel hækbelysning,450,,Foreløbig,Ikke besluttet
+2027,C+D,styring,To HA smart-stik,350,,Foreløbig,
+2027,C+D,installation,Jord kabler og forankring,450,,Foreløbig,
+2027,C+D,reserve,Reserve,300,,Foreløbig,
+2028,E,lys,Eventuel egen flisekantlys,900,,Foreløbig,Ikke offentligt fortov og ikke besluttet
+2028,E,lys,Vinduesstjerner,450,,Foreløbig,
+2028,E,styring,HA udvidelse,450,,Foreløbig,
+2028,E,installation,Kabler og reserve,200,,Foreløbig,
+2029,alle,finish,Reparationer og ekstra detaljer,1000,,Foreløbig,

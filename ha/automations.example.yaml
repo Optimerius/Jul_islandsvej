@@ -1,0 +1,33 @@
+# EKSEMPEL. Tilpas entity-id'er og indsæt via Home Assistants automation-håndtering.
+# Indeholder kun 2026-zonerne. Kræver faktisk registrerede switch-entiteter.
+# Skal ikke indsættes ukritisk som rodniveau i configuration.yaml.
+- id: julelys_2026_taend
+  alias: "Julelys 2026 | Tænd ved solnedgang"
+  description: "Tænder facade og carport 15 minutter før solnedgang."
+  triggers:
+    - trigger: sun
+      event: sunset
+      offset: "-00:15:00"
+  conditions: []
+  actions:
+    - action: switch.turn_on
+      target:
+        entity_id:
+          - switch.julelys_facade
+          - switch.julelys_carport
+  mode: single
+
+- id: julelys_2026_sluk
+  alias: "Julelys 2026 | Sluk klokken 23"
+  description: "Slukker facade og carport klokken 23."
+  triggers:
+    - trigger: time
+      at: "23:00:00"
+  conditions: []
+  actions:
+    - action: switch.turn_off
+      target:
+        entity_id:
+          - switch.julelys_facade
+          - switch.julelys_carport
+  mode: single
