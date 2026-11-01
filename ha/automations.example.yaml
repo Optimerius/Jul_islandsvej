@@ -8,7 +8,10 @@
     - trigger: sun
       event: sunset
       offset: "-00:15:00"
-  conditions: []
+  # Juleperiode er kun et eksempel. Ret selv datoerne efter behov.
+  conditions:
+    - condition: template
+      value_template: "{{ now().month in [11, 12] or (now().month == 1 and now().day <= 6) }}"
   actions:
     - action: switch.turn_on
       target:
