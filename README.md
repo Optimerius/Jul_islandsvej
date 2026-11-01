@@ -38,6 +38,14 @@ To eksisterende forsyningspunkter er oplyst: et udendørs strømudtag under tagr
 - [Beslutninger og åbne spørgsmål](docs/beslutninger.md)
 - [Udstyr og køb](docs/inventar.md)
 
+## Aktive opgaver
+
+**2026, i udførelsesrækkefølge:** [01 Opmåling](https://github.com/Optimerius/Jul_islandsvej/issues/1), [02 Strøm og Zigbee](https://github.com/Optimerius/Jul_islandsvej/issues/2), [03 Lyskæder/guirlander](https://github.com/Optimerius/Jul_islandsvej/issues/3), [04 Smart-stik og kabler](https://github.com/Optimerius/Jul_islandsvej/issues/4), [05 Facademontage](https://github.com/Optimerius/Jul_islandsvej/issues/5), [06 Carportmontage](https://github.com/Optimerius/Jul_islandsvej/issues/6), [07 HA-automatisering](https://github.com/Optimerius/Jul_islandsvej/issues/7), [08 Godkendelse og sæsonreview](https://github.com/Optimerius/Jul_islandsvej/issues/8).
+
+**Senere etaper:** [2027 Træplantning](https://github.com/Optimerius/Jul_islandsvej/issues/9), [2027 Trælys og evt. hæk](https://github.com/Optimerius/Jul_islandsvej/issues/10), [2028 Vinduer og evt. flisekant](https://github.com/Optimerius/Jul_islandsvej/issues/11), [2029 Finish](https://github.com/Optimerius/Jul_islandsvej/issues/12).
+
+[Se alle åbne Issues](https://github.com/Optimerius/Jul_islandsvej/issues).
+
 ## Arbejdsproces i GitHub
 
 1. Planlæg i **Issues**: én konkret opgave pr. issue, med år i titlen, fx `[2026]`.
