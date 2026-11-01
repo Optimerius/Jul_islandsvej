@@ -11,7 +11,7 @@ Dette er **foreslåede entity-id'er**, ikke en bekræftet registrering af de fak
 
 ## Styringsprincip
 
-- Tænd begge zoner ved solnedgang, evt. 15 minutter før.
+- Tænd begge zoner ved solnedgang, evt. 15 minutter før, **kun i den valgte juleperiode** (eksemplet: 1. november til og med 6. januar).
 - Sluk kl. 23.00, eller tidligere hvis det ønskes.
 - Begge zoner skal kunne overstyres manuelt via HA.
 - Undlad farveskift, blink og effekter i den foretrukne 2026-indstilling.
