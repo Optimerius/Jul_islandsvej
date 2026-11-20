@@ -1,9 +1,15 @@
 aar,zone,kategori,post,budget_kr,faktisk_kr,status,note
-2026,A,lys,Istaplyskæder facade,500,,Planlagt,Ca. 16 m huslængde er et usikkert skøn; planlæg ca. 17-18 m lys og kontroller tagrende før køb
-2026,B,lys,Carportlyskæder og granguirlander,700,,Planlagt,Kun carport og indgang
-2026,A+B,styring,To udendørs smart-stik,350,,Planlagt,HA kompatibilitet afklares
-2026,A+B,installation,Kabler fordeling og clips,600,,Planlagt,Udendørs godkendt
-2026,A+B,reserve,Småting og uforudset,350,,Planlagt,
+2026,A,lys,Sirius Top-Line iskrystal 2.5m startsæt og 5 supplementer,887.75,,Shortlist,Præcis 15m 600 LED sammenkobles producentgodkendt
+2026,B,lys,Sirius Easy-Line 40 LED 3.9m til forkant,59,,Shortlist,Afklar om forkant er 3.90m langs skrå kant
+2026,B,dekoration,Nowel kunstig guirlande 2.7m gange 4,196,,Shortlist,Venstre 2.7m højre 2.7m og dør 5.4m mekanisk koblet
+2026,B,lys,Sirius Easy-Line 80 LED 7.9m gange 3,237,,Shortlist,Separat lys på venstre side højre side og hoveddør
+2026,A+B,styring,Nous A6Z udendørs smart-stik 2 pak,299,,Shortlist,Zigbee2MQTT verificeret og jordforbindelse skal kontrolleres
+2026,B,el,Udendørs IP44 fordeling 4 udtag,149,,Shortlist,Stiktype og IP ved tilsluttet udstyr skal verificeres
+2026,A,montering,Tagrendekroge 20 pak gange 4,76,,Shortlist,Tilpas type og afstand efter tagrende
+2026,B,montering,Bindere og clips,80,,Estimat,Sikker aftagelig fastgørelse
+2026,A+B,el,Udendørs kabler,200,,Estimat,Kabelføring endnu ikke opmålt
+2026,B,el,Beskyttelsesløsning til samlinger,100,,Estimat,Egnethed afhænger af faktiske stik og montage
+2026,A+B,reserve,Fragt og uforudset,200,,Estimat,Meget lille margen under 2500
 2027,D,planter,Levende små juletræer,1350,,Foreløbig,Plantes permanent
 2027,D,lys,Varmhvide lys til træer,600,,Foreløbig,Lavvolt foretrækkes
 2027,C,lys,Eventuel hækbelysning,450,,Foreløbig,Ikke besluttet
