@@ -1,5 +1,7 @@
 # Home Assistant
 
+**Status 20.11.2026:** Den tilsluttede Home Assistant har aktiv MQTT og Zigbee2MQTT-enheder, mens ZHA er ignoreret. Dette er kontrolleret; der er endnu ikke købt/parret julelys-smart-stik. [NOUS A6Z har officiel Zigbee2MQTT-understøttelse](https://www.zigbee2mqtt.io/devices/A6Z.html). Ude-rækkevidde og fysisk stiktype skal testes.
+
 ## Målet for 2026
 
 Kun to uafhængige udendørs zoner:
