@@ -18,6 +18,8 @@ Dette er en **plan**, ikke en udført elinstallation eller en elektrikers projek
 - **Foreløbig dimensionering af istaplyskæder:** ca. **17-18 m**, inkl. forsigtig ekstra længde. Tagrendens faktiske længde, udhæng, hjørner og kabelføring er stadig `AFVENTER KONTROLMÅL`. Køb først, når produkternes faktiske lysende længde er kendt.
 - Kilde for arealet: offentlige BBR-oplysninger gengivet af DinGeo (kontrolleret 20.11.2026). Proportionsskønnet er projektets eget, ikke en officiel måling.
 - **Carportens vandrette forkant: 3,90 m (brugerens opmåling, 20.11.2026).** Lysende længde dimensioneres efter 3,90 m; en 4 m lyskæde kan være relevant, men kontroller reel lysende længde og hvor kabel/strømforsyning placeres. Lodrette guirlander og indgangen måles særskilt.
+- **Indgangsdør i carport (brugerens opmåling, 20.11.2026):** venstre side **2,15 m**, over døren **0,98 m**, højre side **2,15 m**. Omvendt U-form omkring dør = **5,28 m** ud fra de oplyste mål. Arbejdsramme for guirlande: **ca. 6 m**, så der er plads til hjørner/tilpasning. Hvis guirlanden fastgøres udenfor karmen, kontrolleres det faktiske forløb; de 5,28 m er ikke en måling af monteringslinjen.
+- De lodrette sider på **selve carportens store åbning** er endnu ikke målt; dørens mål må ikke forveksles med carportåbningens mål.
 - Højde til tagrenden og sikkert adgangsforhold: `AFVENTER`.
 - Placering, type, jordforbindelse og beskyttelse ved de to eksisterende udtag: `AFVENTER`.
 - Evt. udendørs Zigbee-signal og router/koordinator-rækkevidde: `AFVENTER`.
