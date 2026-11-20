@@ -15,7 +15,7 @@
 
 **Zone A, facade:** Varmhvid istaplyskæde langs den eksisterende tagrende på den lange facade. Arbejdsestimat **ca. 16 m huslængde** baseret på BBR-grundplansareal på 126 m² og foto, ikke officiel længdeangivelse. Indkøbsdimensionering ca. **17-18 m lys**, og faktisk tagrendelængde skal kontrolleres før bestilling. Strøm fra eksisterende udtag under tagrenden, hvis kontrollen viser, at det er egnet.
 
-**Zone B, carport/indgang:** Varmhvid lyskæde på carportens **vandrette forkant**, granguirlander med varm hvid belysning omkring åbningen samt enkel indgangsdekoration som del af samme zone. Strøm fra eksisterende udtag ved hoveddøren, hvis egnet.
+**Zone B, carport/indgang:** Carportens **vandrette forkant er målt til 3,90 m** (20.11.2026). Varmhvid lyskæde med ca. 4 m lysende længde på forkanten, granguirlander med varm hvid belysning omkring åbningen samt enkel indgangsdekoration som del af samme zone. Strøm fra eksisterende udtag ved hoveddøren, hvis egnet.
 
 **Ikke 2026:** ingen lys i hækken, ingen små juletræer, ingen kunstige lystræer, ingen stjerner i vinduerne, ingen lys langs fliser eller fortov, ingen lys på tagryg, gavltop eller tagflade, ingen nye bede eller buske.
 
