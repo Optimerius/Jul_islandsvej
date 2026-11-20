@@ -1,21 +1,30 @@
 # Budget og økonomistyring
 
-Dato for skøn: 2026-11-01. Valuta: DKK inkl. moms. Priserne er budgetrammer, **ikke kontrollerede tilbud**. Arbejdsløn for eventuel professionel montering og ny fast elinstallation er **ikke inkluderet**.
+Dato for grundbudget: 2026-11-01. Konkret produktshortlist opdateret 2026-11-20. Valuta: DKK inkl. moms. Priserne er budgetrammer, **ikke kontrollerede tilbud**. Arbejdsløn for eventuel professionel montering og ny fast elinstallation er **ikke inkluderet**.
 
 ## 2026, loft 2.500 kr.
 
-| Post | Budget |
+Se [dokumenteret indkøbsliste](indkoeb-2026.md) for priser, produkter, mængder og begrænsninger.
+
+| Post | Foreløbig sum |
 | --- | ---: |
-| Istaplyskæder langs facaden | 500 |
-| Lyskæder og kunstige granguirlander ved carport/hoveddør | 700 |
-| To udendørs HA-kompatible smart-stik | 350 |
-| Udendørskabler, godkendt strømfordeling og beslag | 600 |
-| Småting/uforudset | 350 |
-| **Sum** | **2.500** |
+| Sirius Top-Line 1 startsæt + 5 forlængersæt, præcis 15 m, 600 LED | 887,75 |
+| Sirius Easy-Line 3,9 m til carportforkant | 59,00 |
+| 4 x Nowel granguirlande 2,7 m uden lys | 196,00 |
+| **3 x** Sirius Easy-Line 7,9 m til venstre side, højre side og hoveddør | 237,00 |
+| 2 x Nous A6Z udendørs Zigbee-stik | 299,00 |
+| 4-vejs udendørs IP44 strømfordeling (model og stiktype skal bekræftes) | 149,00 |
+| 4 x 20 stk. tagrendekroge | 76,00 |
+| Yderligere bindere/clips | 80,00 |
+| Udendørs kabler efter kontrolopmåling | 200,00 |
+| Passende forbindelses-/beskyttelsesløsning | 100,00 |
+| Reserve, fragt, uforudset | 200,00 |
+| **Sum** | **2.483,75** |
+| **Rest op til ramme** | **16,25** |
 
-**Opmåling pr. 20.11.2026:** Carportforkant 3,90 m, lodrette sider 2,80 m + 2,20 m og hoveddør 2,15 m + 0,98 m + 2,15 m. Planlæg ca. 4 m lyskæde til forkanten, ca. 5-6 m guirlande til carportens to sider og ca. 6 m til hoveddøren. **Budgetposten på 700 kr. til carporten kan være for lav**, hvis alle tre områder får kvalitetsguirlander. Indhent tilbud og reducer eventuelt dekorationernes omfang før køb; overskrid ikke automatisk 2026-loftet på 2.500 kr.
+**Prisstatus:** De første seks poster og kroge er aktuelle observerede produktpriser den 20.11.2026 (før forsendelse), resten er **estimater**. Skønnet ligger meget tæt på 2.500 kr. og kan overskrides pga. kabellængder, leveringsudgifter, fastgørelsesmetode eller behov for fagperson. Prioritér sikkerhed: udskyd eventuelt døren eller den ene lodrette carportside, hvis det er nødvendigt.
 
-Priser på specifikke lyskæder, passende stik, IP-klassifikation og kompatibilitet skal undersøges **inden bestilling**. Budgettet forudsætter, at det kan monteres sikkert uden betalt hjælp. Ved uventet høj monteringsomkostning udskydes en del af arbejdet i stedet for at gå på kompromis med sikkerhed.
+Budgettet forudsætter ikke-afkortelige lyskæder med egen 230V-tilslutning/transformer og fastfrosset opdeling af to HA-zoner. **Ingen indkøb er registreret.**
 
 ## 2027, foreløbig 3.500 kr.
 
