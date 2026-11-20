@@ -13,7 +13,7 @@
 
 **Mål:** Huset skal fremstå sammenhængende og flot med blot to lyszoner.
 
-**Zone A, facade:** Varmhvid istaplyskæde langs den eksisterende tagrende på den lange facade. Forventet behov cirka 15-18 meter, **skal måles**. Strøm fra eksisterende udtag under tagrenden, hvis kontrollen viser, at det er egnet.
+**Zone A, facade:** Varmhvid istaplyskæde langs den eksisterende tagrende på den lange facade. Arbejdsestimat **ca. 16 m huslængde** baseret på BBR-grundplansareal på 126 m² og foto, ikke officiel længdeangivelse. Indkøbsdimensionering ca. **17-18 m lys**, og faktisk tagrendelængde skal kontrolleres før bestilling. Strøm fra eksisterende udtag under tagrenden, hvis kontrollen viser, at det er egnet.
 
 **Zone B, carport/indgang:** Varmhvid lyskæde på carportens **vandrette forkant**, granguirlander med varm hvid belysning omkring åbningen samt enkel indgangsdekoration som del af samme zone. Strøm fra eksisterende udtag ved hoveddøren, hvis egnet.
 
