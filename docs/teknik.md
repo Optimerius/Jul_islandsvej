@@ -17,7 +17,7 @@ Dette er en **plan**, ikke en udført elinstallation eller en elektrikers projek
 - **Foreløbig bygningslængde langs den lange facade:** ca. **16 m**. Beregnet som et **usikkert arbejdsskøn** ud fra BBR-hovedbygningens grundplansareal på 126 m² og proportioner på eksisterende facadefotos. Den offentlige BBR-oplysning oplyser **areal, ikke længde**, og det er derfor **ikke** et opmålt husmål.
 - **Foreløbig dimensionering af istaplyskæder:** ca. **17-18 m**, inkl. forsigtig ekstra længde. Tagrendens faktiske længde, udhæng, hjørner og kabelføring er stadig `AFVENTER KONTROLMÅL`. Køb først, når produkternes faktiske lysende længde er kendt.
 - Kilde for arealet: offentlige BBR-oplysninger gengivet af DinGeo (kontrolleret 20.11.2026). Proportionsskønnet er projektets eget, ikke en officiel måling.
-- Carportforkantens længde: `AFVENTER`.
+- **Carportens vandrette forkant: 3,90 m (brugerens opmåling, 20.11.2026).** Lysende længde dimensioneres efter 3,90 m; en 4 m lyskæde kan være relevant, men kontroller reel lysende længde og hvor kabel/strømforsyning placeres. Lodrette guirlander og indgangen måles særskilt.
 - Højde til tagrenden og sikkert adgangsforhold: `AFVENTER`.
 - Placering, type, jordforbindelse og beskyttelse ved de to eksisterende udtag: `AFVENTER`.
 - Evt. udendørs Zigbee-signal og router/koordinator-rækkevidde: `AFVENTER`.
