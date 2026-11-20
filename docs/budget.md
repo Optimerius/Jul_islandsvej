@@ -13,6 +13,8 @@ Dato for skøn: 2026-11-01. Valuta: DKK inkl. moms. Priserne er budgetrammer, **
 | Småting/uforudset | 350 |
 | **Sum** | **2.500** |
 
+**Opmåling pr. 20.11.2026:** Carportforkant 3,90 m, lodrette sider 2,80 m + 2,20 m og hoveddør 2,15 m + 0,98 m + 2,15 m. Planlæg ca. 4 m lyskæde til forkanten, ca. 5-6 m guirlande til carportens to sider og ca. 6 m til hoveddøren. **Budgetposten på 700 kr. til carporten kan være for lav**, hvis alle tre områder får kvalitetsguirlander. Indhent tilbud og reducer eventuelt dekorationernes omfang før køb; overskrid ikke automatisk 2026-loftet på 2.500 kr.
+
 Priser på specifikke lyskæder, passende stik, IP-klassifikation og kompatibilitet skal undersøges **inden bestilling**. Budgettet forudsætter, at det kan monteres sikkert uden betalt hjælp. Ved uventet høj monteringsomkostning udskydes en del af arbejdet i stedet for at gå på kompromis med sikkerhed.
 
 ## 2027, foreløbig 3.500 kr.
