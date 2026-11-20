@@ -14,12 +14,24 @@ Dette er en **plan**, ikke en udført elinstallation eller en elektrikers projek
 
 ## Opmåling før indkøb
 
-- **Foreløbig bygningslængde langs den lange facade:** ca. **16 m**. Beregnet som et **usikkert arbejdsskøn** ud fra BBR-hovedbygningens grundplansareal på 126 m² og proportioner på eksisterende facadefotos. Den offentlige BBR-oplysning oplyser **areal, ikke længde**, og det er derfor **ikke** et opmålt husmål.
-- **Foreløbig dimensionering af istaplyskæder:** ca. **17-18 m**, inkl. forsigtig ekstra længde. Tagrendens faktiske længde, udhæng, hjørner og kabelføring er stadig `AFVENTER KONTROLMÅL`. Køb først, når produkternes faktiske lysende længde er kendt.
-- Kilde for arealet: offentlige BBR-oplysninger gengivet af DinGeo (kontrolleret 20.11.2026). Proportionsskønnet er projektets eget, ikke en officiel måling.
-- **Carportens forkant: 3,90 m bred** (brugeropmåling, 20.11.2026). **Højder på de to sider af den store åbning: 2,80 m og 2,20 m** (brugeropmåling, 20.11.2026; endnu ikke knyttet til højre/venstre side). Samlet forløb med de to sider og forkanten: **2,80 + 3,90 + 2,20 = 8,90 m**. Hvis forkanten skråner 0,60 m over en vandret bredde på 3,90 m, er selve forkantlinjen omkring 3,95 m og samlet forløb ca. 8,95 m. Foreløbigt: **ca. 4 m lys langs toppen og ca. 5 m lodrette guirlander**, plus tilpasning. Kontrollér faktisk monteringslinje og hvilken side der er højest før køb.
-- **Indgangsdør i carport (brugerens opmåling, 20.11.2026):** venstre side **2,15 m**, over døren **0,98 m**, højre side **2,15 m**. Omvendt U-form omkring dør = **5,28 m** ud fra de oplyste mål. Arbejdsramme for guirlande: **ca. 6 m**, så der er plads til hjørner/tilpasning. Hvis guirlanden fastgøres udenfor karmen, kontrolleres det faktiske forløb; de 5,28 m er ikke en måling af monteringslinjen.
-- Hoveddørens mål og carportåbningens mål er forskellige: **5,28 m** omkring dør (planlæg ca. 6 m) og **8,90 m** omkring stor carportåbning (heraf 3,90 m forkant og 5,00 m sider). Undgå at dobbeltregne forkantens lyskæde med guirlander.
+- **Facadens tagrende: 15,00 m (målt og oplyst af bruger, 20.11.2026).** Dette erstatter det tidligere usikre estimat på ca. 16 m bygningslængde og 17-18 m istaplys. Vælg **præcis 15 m lysende længde**, hvis muligt, eller kompatible moduler, der dækker strækningen uden uønsket overlængde. Kontrollér afslutninger, udhæng og forsyningskablets placering før bestilling.
+- **Carportens forkant: 3,90 m (målt), venstre side: 2,80 m, højre side: 2,20 m (målt og oplyst 20.11.2026).** Hvis 3,90 m er vandret afstand og toppen skråner 0,60 m, er faktisk skrålængde ca. **3,95 m**. Hvis 3,90 m allerede er målt langs skråkanten, bruges 3,90 m. Top + de to lodrette sider udgør ca. **8,90-8,95 m**, men øverste lys og lodrette granguirlander tælles **som separate varer**.
+- **Indgangsdør i carport (brugerens opmåling, 20.11.2026):** venstre side **2,15 m**, over døren **0,98 m**, højre side **2,15 m**. Omvendt U-form omkring dør = **5,28 m** ud fra de oplyste mål. Arbejdsramme for guirlande: **5,28 m faktisk forløb**, men produktets faste længde skal vælges (fx 5,5 eller 6 m **kun hvis den findes** og overskud kan skjules pænt). Hvis guirlanden fastgøres udenfor karmen, kontrolleres det faktiske forløb; de 5,28 m er ikke en måling af monteringslinjen.
+- **Hoveddørens U-forløb: 5,28 m.** Carportens venstre lodrette side er **2,80 m** og højre **2,20 m**, i alt 5,00 m. Carportens forkant får sin egen ca. 4 m lyskæde, så forkanten må **ikke også tælles som guirlande** uden et særskilt designvalg.
+
+## Regel for ikke-afkortelige produkter
+
+**Lyskæder og granguirlander må ikke blot klippes over.** Vælg kun konkrete varer, når producentens faste **lysende længde**, start/slut, forsyningsledning, transformertype, eventuelle kompatible koblinger og maksimale antal moduler er kendt. Overlængde kræver en dokumenteret, sikker og diskret føring, ikke blot et overslag på samlet antal meter.
+
+| Del | Mål | Princip for indkøb, ikke besluttet produkt |
+| --- | ---: | --- |
+| Facade/istaplys | 15,00 m | Et 15 m system eller producentgodkendt kombination, fx 3 x 5 m **hvis sammenkobling er godkendt** |
+| Carportforkant/lys | 3,90-3,95 m | Produkt med ca. 4 m **lysende** længde og passende fødekabel |
+| Carport venstre/granguirlande | 2,80 m | Eget passende modul; fx 3 m, hvis tilgængeligt og 0,20 m kan placeres pænt |
+| Carport højre/granguirlande | 2,20 m | Eget passende modul; fx 2,5 m, hvis tilgængeligt og 0,30 m kan placeres pænt |
+| Hoveddør/granguirlande | 5,28 m | Sammenhængende produkt/producentgodkendte moduler; fx 5,5 m eller 6 m, **kun hvis tilgængeligt og overskud håndteres** |
+
+**Vigtigt:** Tal som 2,5 m, 3 m, 4 m, 5,5 m og 6 m er **søgelængder, ikke verificerede varianter i et bestemt produktsortiment**. Køb først, når en komplet produkt-/fordelingsplan med antal forsyninger og faktisk overdækning er godkendt.
 - Højde til tagrenden og sikkert adgangsforhold: `AFVENTER`.
 - Placering, type, jordforbindelse og beskyttelse ved de to eksisterende udtag: `AFVENTER`.
 - Evt. udendørs Zigbee-signal og router/koordinator-rækkevidde: `AFVENTER`.
