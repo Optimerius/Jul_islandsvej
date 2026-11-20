@@ -2,7 +2,7 @@
 
 Et flerårigt projekt for julebelysning af hus, carport og have, styret via Home Assistant (HA).
 
-**Status pr. 1. november 2026:** Planlægning. Ingen indkøb, montering eller HA-integration er registreret som gennemført.
+**Status pr. 20. november 2026:** Opmåling og konkret indkøbsshortlist. Ingen indkøb, montering eller HA-integration er registreret som gennemført.
 
 ## Målet
 
@@ -29,6 +29,7 @@ To eksisterende forsyningspunkter er oplyst: et udendørs strømudtag under tagr
 
 ## Dokumentation
 
+- **[Konkret indkøbsliste 2026 (ikke bestilt)](docs/indkoeb-2026.md)**
 - [Plan og etaper](docs/plan.md)
 - [Budget og indkøbsprincipper](docs/budget.md) samt [budgetposter i CSV](budget/budget.csv)
 - [Visuel retning og afgrænsning](docs/design.md)
