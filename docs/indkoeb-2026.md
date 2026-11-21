@@ -1,6 +1,8 @@
 # Indkøbsliste 2026 (konkret forslag)
 
-**Opdateret 20.11.2026. Status: Research / shortlist. INGEN varer er købt.**
+**Opdateret 21.11.2026. Status: Research / shortlist. INGEN varer er købt.**
+
+**VIGTIGT: Strømfordeling er ikke købeklar.** Se [den særskilte el- og kabelføringsplan](stroemfordeling-2026.md). Den eksisterende liste på 2.483,75 kr. er **ikke et endeligt tilbud**: alle fire transformere skal kunne sidde i den valgte fordeling med korrekt IP-beskyttelse, og ledningslængder/stik/jord mangler kontrol. Goobay-kandidat er set til 111 kr. 21.11.2026; Elworks IP54-boks set til ca. 78 kr., men kan kun bruges inden for sine kabeldiameterkrav. Begge er uafklarede kandidater, ikke godkendte køb.
 
 Der er to lyszoner: A facade og B carport + hoveddør. Den kendte Zigbee-platform i Home Assistant er **Zigbee2MQTT** (MQTT-integration aktiv, ZHA-konfiguration ignoreret). Udendørs rækkevidde og stiktype/jordforbindelse skal fortsat testes.
 
@@ -36,7 +38,7 @@ Der er to lyszoner: A facade og B carport + hoveddør. Den kendte Zigbee-platfor
 
 ## Monteringsplan uden afkortning
 
-**A Facade:** 1 startsæt + 5 kompatible Top-Line-forlængersæt = **6 x 2,5 m = præcis 15,00 m med 600 LED**. Delene er udtrykkeligt godkendt af serien til sammenkobling. Én tilledning og én passende transformer, hvis de 600 LED er inden for producentens angivne grænse (Top-Line oplyser op til 2.000 LED). Startpunkt ved passende strømtilslutning efter kontrol.
+**A Facade:** 1 startsæt + 5 kompatible Top-Line-forlængersæt = **6 x 2,5 m = præcis 15,00 m med 600 LED**. Delene er udtrykkeligt godkendt af serien til sammenkobling. Én tilledning og én passende transformer; producentens Top-Line Energy angiver op til 2.400 LED, og 600 LED er indenfor den grænse ved den anbefalede originale transformer. Startpunkt ved passende strømtilslutning efter kontrol.
 
 **B Forkant:** 1 kæde på **3,9 m**. Hvis forkanten skråner og den faktisk er 3,95 m, afsluttes 2,5 cm fra hvert hjørne. Kæden afkortes ikke.
 
@@ -50,7 +52,7 @@ Der er to lyszoner: A facade og B carport + hoveddør. Den kendte Zigbee-platfor
 
 ### Strøm i zone B
 
-Ét udendørs smart-stik styrer en 4-vejs udendørs fordeling, hvor de **fire medfølgende transformere** tilsluttes: venstre side, højre side, hoveddør og forkant. Kun når smart-stik, fordeling, stik-/jordforbindelse og belastning er egnede. Fordelingen skal have passende IP-klassifikation **under faktisk brug med tilsluttede stik**, monteres korrekt og beskyttes i henhold til producentens anvisninger.
+Ét udendørs smart-stik styrer en 4-vejs udendørs fordeling med **fire transformere**: venstre side, højre side, hoveddør og forkant. De almindelige Easy-Line-kæder har **5 m tilslutningsledning hver, men kan ikke udbygges med vilkårlig 31V-forlænger**. Alle kabelveje skal måles. Kun når smart-stik, fordeling, stik-/jordforbindelse og belastning er egnede. Fordelingen skal have passende IP-klassifikation **under faktisk brug med tilsluttede stik**, monteres korrekt og beskyttes i henhold til producentens anvisninger.
 
 ## Kilder / produktlinks
 
