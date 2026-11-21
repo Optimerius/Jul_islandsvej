@@ -34,6 +34,7 @@ To eksisterende forsyningspunkter er oplyst: et udendørs strømudtag under tagr
 - [Budget og indkøbsprincipper](docs/budget.md) samt [budgetposter i CSV](budget/budget.csv)
 - [Visuel retning og afgrænsning](docs/design.md)
 - [Teknik, zoner og sikkerhed](docs/teknik.md)
+- **[Strømfordeling og kabelføring 2026](docs/stroemfordeling-2026.md)**
 - [Home Assistant](docs/home-assistant.md) og [YAML-eksempel](ha/automations.example.yaml)
 - [Montering, sæsondrift og opbevaring](docs/montering.md)
 - [Beslutninger og åbne spørgsmål](docs/beslutninger.md)
