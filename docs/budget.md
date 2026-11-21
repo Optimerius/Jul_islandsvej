@@ -22,6 +22,8 @@ Se [dokumenteret indkøbsliste](indkoeb-2026.md) for priser, produkter, mængder
 | **Sum** | **2.483,75** |
 | **Rest op til ramme** | **16,25** |
 
+**Opdatering 21.11.2026:** En konkret Goobay 4-vejs IP44-fordeler er set til 111 kr. (i stedet for budgettets 149 kr.), og en Elworks IP54-kabelboks til ca. 78 kr. (i stedet for budgettets 100 kr.). **Ingen af dem er godkendt til køb**, da der fortsat mangler kontrol af de fire transformer-stiks fysiske størrelse, kabeldiametre i pakninger, jordforbindelse og faktisk kabelvej. Et hypotetisk regnestykke med disse kandidatpriser ville reducere delbudgettet med 60 kr., men **den officielle 2026-ramme og CSV beholdes uændret**, indtil det kan gennemføres sikkert. Se [strømfordelingsplanen](stroemfordeling-2026.md).
+
 **Prisstatus:** De første seks poster og kroge er aktuelle observerede produktpriser den 20.11.2026 (før forsendelse), resten er **estimater**. Skønnet ligger meget tæt på 2.500 kr. og kan overskrides pga. kabellængder, leveringsudgifter, fastgørelsesmetode eller behov for fagperson. Prioritér sikkerhed: udskyd eventuelt døren eller den ene lodrette carportside, hvis det er nødvendigt.
 
 Budgettet forudsætter ikke-afkortelige lyskæder med egen 230V-tilslutning/transformer og fastfrosset opdeling af to HA-zoner. **Ingen indkøb er registreret.**
