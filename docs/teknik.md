@@ -39,7 +39,7 @@ Dette er en **plan**, ikke en udført elinstallation eller en elektrikers projek
 
 ## 2026 indkøbskonfiguration
 
-Den konkrete shortlist findes i [indkoeb-2026.md](indkoeb-2026.md).
+Den konkrete shortlist findes i [indkoeb-2026.md](indkoeb-2026.md). **Strømfordeling er nærmere analyseret i [stroemfordeling-2026.md](stroemfordeling-2026.md): en 4-vejs fordeler/boks må IKKE bestilles før fysisk kontrol af 4 transformere, stik, jord og pakninger.**
 
 - **Facade:** seks sammenkoblingsbare Top-Line Iskrystal-sektioner á 2,5 m med én transformer: 15,00 m og 600 LED.
 - **Carportforkant:** én separat Easy-Line kæde på 3,9 m.
