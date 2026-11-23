@@ -1,0 +1,30 @@
+# ALTERNATIVT EKSEMPEL: 1 smart-stik styrer samtlige udendørs julelys.
+# Må først bruges når den eksisterende fælles strømfordeling er sikkerhedskontrolleret.
+# Dette er ikke komplet configuration.yaml; indsæt via HA automations-setup.
+# switch.julelys_alle er en PLACEHOLDER, ikke en eksisterende registreret entity.
+- id: julelys_faelles_taend
+  alias: "Julelys 2026 | Samlet tænding"
+  triggers:
+    - trigger: sun
+      event: sunset
+      offset: "-00:15:00"
+  conditions:
+    - condition: template
+      value_template: "{{ now().month in [11, 12] or (now().month == 1 and now().day <= 6) }}"
+  actions:
+    - action: switch.turn_on
+      target:
+        entity_id: switch.julelys_alle
+  mode: single
+
+- id: julelys_faelles_sluk
+  alias: "Julelys 2026 | Samlet slukning"
+  triggers:
+    - trigger: time
+      at: "23:00:00"
+  conditions: []
+  actions:
+    - action: switch.turn_off
+      target:
+        entity_id: switch.julelys_alle
+  mode: single
