@@ -1,9 +1,51 @@
 # Strømfordeling og kabelplan, julelys 2026
 
-**Status: teknisk dispositionsplan 21.11.2026. Ikke endeligt godkendt til indkøb eller opsætning.**
-Ingen udtag er fysisk inspiceret. Offentligt repository: ingen præcis placering, ledningsdiagram over husets faste installation eller personfølsomme oplysninger.
+**Status: revideret 23.11.2026 efter fotos og oplysninger om eksisterende fælles kabelrække. Ikke godkendt til indkøb eller opsætning.**
+Udtag og kabler er vurderet ud fra fotos, ikke fysisk/el-teknisk inspiceret. Offentligt repository: ingen præcis placering, ledningsdiagram over husets faste installation eller personfølsomme oplysninger.
 
-## Grundprincip: 2 separate HA-zoner
+## Nyt fund 23.11.2026: Fælles eksisterende forsyning, mulighed for kun ét smart-stik
+
+Ejeren har fotograferet en **eksisterende almindelig udendørs vægstikkontakt**, en separat **løs stikprop til den ældre kabelføring**, og flere kabel-/stikdele fastgjort langs udhænget. Ejeren oplyser, at når den løse stikprop tilsluttes, forsynes række af udtag langs huset. Fotografier er **ikke** uploadet i det offentlige repository.
+
+### Primær kandidat, hvis den eksisterende kabelrække godkendes
+
+```mermaid
+flowchart TD
+  A[Eksisterende udendørs vægudtag] --> B[ET udendørs Zigbee smart-stik]
+  B --> C[Eksisterende kabelrækkes forsyningsstik]
+  C --> D[Udtag langs udhæng]
+  D --> E[Facade med 15 m istaplys]
+  D --> F[Carportens fire lysforsyninger]
+  HA[Home Assistant Zigbee2MQTT] -. tænd/sluk samlet .-> B
+```
+
+**Kritisk betingelse:** Alle valgte lysforsyninger skal i praksis være tilsluttet **bag det samme forsyningsstik**. Det er ikke bekræftet ud fra fotos, at alle endepunkter eller begge oprindelige strømudtag faktisk ligger bag ét stik. Smart-stikket afbryder kun den del af nettet, som er tilsluttet *efter* det.
+
+Konsekvens: Én HA-enhed styrer alt samtidig. Zonerne A og B er stadig **fysiske dekorationsområder**, men ikke uafhængige HA-zoner i denne variant. Fremtidige år kan flere individuelle smart-stik placeres downstream, hvis de er elektrisk og miljømæssigt egnede. **Alternativet med to smart-stik forbliver et dokumenteret fallback**, men er ikke længere førstevalget.
+
+### Fotoobservationer og kritisk sikkerhedstjek
+
+- Første udendørs vægudtag **ser ud til** at være dansk Type K med jord. Kan ikke fastslås sikkert alene fra billedet, at jordlederen er tilsluttet og virksom.
+- Den løse stikprop ser ud til at have **to ben** og tilhører efter oplysning den eksisterende forsyning. Undersøg om beskyttelsesjord overhovedet føres med videre, hvis der er klasse I-udstyr nedstrøms.
+- Under udhænget ses en **ældre to-hullet stikdåse**, synlige kabler og snavs/spindelvæv. Fotos dokumenterer **ikke** kapslingsklasse, udendørs egnethed, kabeltype, tilstand eller korrekt montering.
+- En række forlængerledninger, der har siddet permanent under udhænget, er **ikke automatisk** en godkendt fast installation. Sikkerhedsstyrelsen beskriver midlertidige udendørs ledninger, som skal fjernes igen, når de ikke er i brug. Hvis kæden er tænkt som fast permanent fordeling, bør en autoriseret elinstallatør vurdere/opgradere den.
+- Kontroller tilstanden **med strømmen afbrudt** for slid, revner, fugt, løse forbindelser, mærkning for udendørs brug og mærkestrøm. Lad være med at tilslutte gammel strømfordeling, indtil tilstanden er afklaret.
+- IP44 på selve Zigbee-smart-stikket **garanterer ikke**, at kombinationen vægudtag + adapter + smart-stik + gammel stikprop er beskyttet mod slagregn/fugt med låg åbent.
+- NOUS A6Z er Type F/Schuko. Ved Type K/dansk jord skal en egnet, godkendt løsning overføre eventuel beskyttelsesjord **hele vejen**; kontrol udføres som led i gennemgangen.
+- RCD/HPFI, kabeltværsnit, sammenkoblede forlængerledninger, samlet mærkestrøm, mekanisk fastgørelse og faktisk belastning skal vurderes.
+
+**Anbefalet rækkefølge:** (1) afklar om alle udendørs stik går gennem én løs fødeprop, (2) få eksisterende kabelkæde og udtag vurderet og om nødvendigt udskiftet før brug, (3) vælg én IP-egnet smart-plug-løsning der faktisk passer til udtaget og den beskyttede placering, (4) kontrollér hvor Sirius-kæderne fysisk når med 5 m tilledninger, (5) lav indkøb.
+
+**Dokumentation/kilder:**
+- Sikkerhedsstyrelsen, udendørs el og midlertidig ledning: https://www.sik.dk/privat/gor-det-sikkert/el/gor-det-selv/udendors-el
+- Sikkerhedsstyrelsen, udendørs forlængerledninger, RCD og risiko: https://www.sik.dk/privat/goer-det-sikkert/el/brug-elprodukter-sikkert/undgaa-elulykker-sikker-brug-elektriske-haveredskaber
+- Sikkerhedsstyrelsen, overførsel af jord mellem danske udtag og sidejord: https://www.sik.dk/privat/gor-det-sikkert/el/brug-elprodukter-sikkert/hvilke-elprodukter-ma-du-selv-slutte-eller-koble
+- NOUS A6Z Zigbee2MQTT: https://www.zigbee2mqtt.io/devices/A6Z.html
+
+**Status: Ikke godkendt til brug eller indkøb endnu. Ingen verificering af eksisterende elanlægs sikkerhed foretaget af elektriker.**
+
+
+## Alternativ/fallback: 2 separate HA-zoner (tidligere dispositionsplan)
 
 ```mermaid
 flowchart TD
