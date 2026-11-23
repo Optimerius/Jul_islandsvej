@@ -11,7 +11,7 @@
 
 ## 2026: Facade og carport
 
-**Mål:** Huset skal fremstå sammenhængende og flot med blot to lyszoner.
+**Mål:** Huset skal fremstå sammenhængende og flot med **én samlet HA-tænd/sluk-gruppe**, fordelt på facade og carport som to fysiske dekorationsområder. Den eksisterende kabelrække ønskes genbrugt efter en sikkerhedskontrol. Kameraet får PoE via LAN og er ikke forsynet gennem julelysledning.
 
 **Zone A, facade:** Varmhvid istaplyskæde langs den eksisterende tagrende på den lange facade. **Tagrenden er opmålt til 15,00 m** (20.11.2026). Vælg helst nøjagtig 15 m lysende kæde eller producentgodkendte moduler uden unødig overlængde. Kæder kan ikke forudsættes afkortet. Strøm fra eksisterende udtag under tagrenden, hvis kontrollen viser, at det er egnet.
 
@@ -23,7 +23,7 @@
 - [ ] Faktiske mål og monteringsmetode dokumenteret.
 - [ ] Sikker strømføring og beskyttede forbindelser afprøvet.
 - [ ] Kun de to aftalte zoner har udendørs julelys.
-- [ ] Begge zoner kan styres særskilt i HA.
+- [ ] Alle julelys kan tændes og slukkes samlet via ét smart-stik i HA.
 - [ ] Automatisk tænding ved mørke og slukning om aftenen fungerer.
 - [ ] Kabler/fastgørelser kan demonteres og opbevares mærket.
 
