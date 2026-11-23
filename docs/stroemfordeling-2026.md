@@ -25,6 +25,7 @@ Konsekvens: Én HA-enhed styrer alt samtidig. Zonerne A og B er stadig **fysiske
 
 ### Fotoobservationer og kritisk sikkerhedstjek
 
+- Der ses også **et overvågningskamera under udhænget**. Det vides ikke, hvor det får strøm fra. **Et fælles smart-stik vil slukke alle enheder nedstrøms**, også et eventuelt kamera eller andet udstyr, hvis det deler den gamle forsyning. Kontrollér at kabelrækken alene forsyner julelys, før den bruges som fælles tænd/sluk.
 - Første udendørs vægudtag **ser ud til** at være dansk Type K med jord. Kan ikke fastslås sikkert alene fra billedet, at jordlederen er tilsluttet og virksom.
 - Den løse stikprop ser ud til at have **to ben** og tilhører efter oplysning den eksisterende forsyning. Undersøg om beskyttelsesjord overhovedet føres med videre, hvis der er klasse I-udstyr nedstrøms.
 - Under udhænget ses en **ældre to-hullet stikdåse**, synlige kabler og snavs/spindelvæv. Fotos dokumenterer **ikke** kapslingsklasse, udendørs egnethed, kabeltype, tilstand eller korrekt montering.
