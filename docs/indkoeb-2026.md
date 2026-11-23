@@ -8,6 +8,25 @@
 
 Der er **én valgt HA-styringsgruppe** med to fysiske områder: A facade og B carport + hoveddør. Den kendte Zigbee-platform i Home Assistant er **Zigbee2MQTT** (MQTT-integration aktiv, ZHA-konfiguration ignoreret). Udendørs rækkevidde og stiktype/jordforbindelse skal fortsat testes.
 
+
+## Smart-stik shortlist verificeret 23.11.2026
+
+**Foretrukken kandidat:** **NOUS A6Z-1**, udendørs Zigbee 3.0, IP44, 16A, Type F/Schuko, energimåling og dokumenteret Zigbee2MQTT-understøttelse. Observeret enkeltstykpris **188,53 kr.** hos DistriNode (pris kan ændre sig). Kilder:
+- https://distrinode.dk/nous-a6z-udendors-smartstik-zigbee-1-pak-energiovervagning
+- https://www.zigbee2mqtt.io/devices/A6Z.html
+
+**Alternativ:** **LEDVANCE/OSRAM SMART+ Zigbee Compact Outdoor Plug**, kontroller specifikt EAN/model **4099854293276**; IP44, 16A, energimåling, dokumenteret Zigbee2MQTT. Observeret **250 kr.** hos dansk producentwebshop:
+- https://shop.ledvance.dk/products/smart-zigbee-compact-outdoor-plug-eu
+- https://www.zigbee2mqtt.io/devices/4099854293276.html
+
+**Fravalgt som primært valg:** Paulmann 50138, IP44, Zigbee, observeret 316 kr., men producenten garanterer ikke drift med tredjeparts Zigbee-gateway.
+
+**Blokering før bestilling:** Både NOUS og LEDVANCE anvender Schuko/Type F, mens den fotograferede vægstikkontakt ser ud til at være dansk Type K med jord. Jordforbindelse videreføres ikke automatisk. Vælg en egnet godkendt udendørs systemadapter med korrekt *retning*, eller få elinstallatøren til at sikre korrekt løsning. Undersøg IP-klasse **for hele samlingen med begge stik monteret**, plads ved klaplåg, RCD/HPFI samt den ældre forlængerledningsrække. Eksempel på IP44-adapterledning: https://www.mspa.dk/products/adapter-230v-stikprop-m-jord-0-5-meter (må ikke betragtes som valgt, før stikretningen og hele samlingen er bekræftet). Sikkerhedsstyrelsen: https://www.sik.dk/privat/gor-det-sikkert/el/brug-elprodukter-sikkert/hvilke-elprodukter-ma-du-selv-slutte-eller-koble
+
+**IKEA TRETAKT er ikke egnet til åben carport** på grund af indendørs-only krav.
+
+**Status:** Produktshortlist, **ikke** bestilt eller godkendt til installation. Én samlet HA-kontakt er stadig valgt styringsprincip.
+
 ## Opmålte mål
 
 | Del | Forløb |
