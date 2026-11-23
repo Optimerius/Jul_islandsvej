@@ -79,3 +79,15 @@ Der er **én valgt HA-styringsgruppe** med to fysiske områder: A facade og B ca
 8. Kontrollér priser/lager og returneringsmuligheder; **intet er bestilt**.
 
 Ingen levende træer, hæklys, vinduer, fortovs- eller flisekantlys hører til 2026.
+
+## Kontrol af eksisterende IKEA-smart-stik, 23.11.2026
+
+Det er via tilsluttet Home Assistant konstateret, at der findes **fem IKEA TRETAKT** Zigbee-stik (`Lys_jul_hjerter`, `Lys_jul_pakker`, `Lys_jul_snefnug`, `Lys_jul_tree1`, `pool_pumpe`). Ejeren oplyser desuden, at der ligger et ekstra ubrugt eksemplar.
+
+**Konklusion: IKEA TRETAKT må ikke bruges direkte i den åbne carport.** Producenten kræver **indendørs, tørre omgivelser**, driftstemperatur **0-35 °C**, og at produktet ikke udsættes for fugt. En overdækket carport er ikke et frostfrit tørt indendørsrum; en tilfældig plastkasse ophæver ikke fabrikantens krav. Producenten advarer også mod at tildække det under brug. Smart-stikkets 3680 W-mærkning ændrer ikke dette.
+
+Valgt design fastholdes: **ét udendørsgodkendt Zigbee-stik** foran sikkerhedskontrolleret fælles forsyning. Alternativt kan eksisterende TRETAKT bruges i et **reelt tørt, frostfrit indendørsrum** med korrekt og sikker udendørs fremføring, hvis den løsning er praktisk. Begge scenarier kræver kontrol af jordoverførsel, danske stik, IP med tilsluttet stik, RCD/HPFI og de ældre kabler.
+
+Producentens kilder:
+- https://www.ikea.com/dk/da/manuals/tretakt-stikprop-smart__AA-2396101-2-2.pdf (dansk side 17-18)
+- https://www.ikea.com/dk/da/p/tretakt-stikprop-smart-80540349/
