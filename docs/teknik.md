@@ -2,6 +2,8 @@
 
 Dette er en **plan**, ikke en udført elinstallation eller en elektrikers projektering.
 
+**OBS 23.11.2026:** Under udhænget findes muligvis en fælles forsyningsledning, der kan gøre ét smart-stik tilstrækkeligt for alle områder. Det er **ikke endnu el-sikkerhedsverificeret**. Se [strømfordelingsplanen](stroemfordeling-2026.md#nyt-fund-23112026-fælles-eksisterende-forsyning-mulighed-for-kun-ét-smart-stik). Tabellen nedenfor beskriver fysisk lysopdeling. Uafhængige HA-zoner er nu kun en alternativ løsning.
+
 ## Fysiske zoner
 
 | Zone | 2026? | Strømforsyning | Lys | HA |
