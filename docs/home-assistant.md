@@ -2,15 +2,15 @@
 
 **Status 20.11.2026:** Den tilsluttede Home Assistant har aktiv MQTT og Zigbee2MQTT-enheder, mens ZHA er ignoreret. Dette er kontrolleret; der er endnu ikke købt/parret julelys-smart-stik. [NOUS A6Z har officiel Zigbee2MQTT-understøttelse](https://www.zigbee2mqtt.io/devices/A6Z.html). Ude-rækkevidde og fysisk stiktype skal testes.
 
-## Nyt mulig enklere mål for 2026 (23.11.2026)
+## Valgt styringsprincip for 2026 (23.11.2026)
 
-Hvis den eksisterende fælles forsyningsledning under udhænget viser sig at være **sikker og egnet**, kan **ét** smart-stik før hele kæden tænde og slukke alt julelys samtidigt.
+Én fælles smart-plug før den eksisterende forsyningsrække er nu **valgt som styringsprincip**. Den gamle forlængerledningsrække skal først inspiceres og eventuelt udbedres/udskiftes. Når den er godkendt, kan ét smart-stik tænde og slukke hele julelyset.
 
 Foreslået entity-id til denne variant: `switch.julelys_alle` (**ikke faktisk oprettet**).
 
 Se [vurdering af eksisterende forsyning](stroemfordeling-2026.md#nyt-fund-23112026-fælles-eksisterende-forsyning-mulighed-for-kun-ét-smart-stik).
 
-Dette er ikke godkendt, da en ældre fælles kabelføring og jord/IP er uafklaret. Den nedenstående 2-zone-opbygning er fallback, hvis der er behov for separate kredse eller selvstændig styring. Eksisterende `ha/automations.example.yaml` er stadig **eksemplet til to zoner**, ikke konfigurationen for én fælles switch. Et eksempel til én switch findes i `ha/automations.one-plug.example.yaml`.
+Det konkrete el-setup er endnu **ikke godkendt**, da en ældre fælles kabelføring og jord/IP er uafklaret. Kameraet får strøm separat via LAN/PoE og påvirkes ikke. Den nedenstående 2-zone-opbygning er alene fallback, hvis der er behov for separate kredse eller selvstændig styring. Eksisterende `ha/automations.example.yaml` er stadig **eksemplet til to zoner**, ikke konfigurationen for én fælles switch. Et eksempel til én switch findes i `ha/automations.one-plug.example.yaml`.
 
 ## Alternativt mål: 2 uafhængige udendørs zoner
 
