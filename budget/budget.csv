@@ -3,8 +3,8 @@ aar,zone,kategori,post,budget_kr,faktisk_kr,status,note
 2026,B,lys,Sirius Easy-Line 40 LED 3.9m til forkant,59,,Shortlist,Afklar om forkant er 3.90m langs skrå kant
 2026,B,dekoration,Nowel kunstig guirlande 2.7m gange 4,196,,Shortlist,Venstre 2.7m højre 2.7m og dør 5.4m mekanisk koblet
 2026,B,lys,Sirius Easy-Line 80 LED 7.9m gange 3,237,,Shortlist,Separat lys på venstre side højre side og hoveddør
-2026,A+B,styring,Nous A6Z udendørs smart-stik 2 pak,299,,Shortlist,Zigbee2MQTT verificeret og jordforbindelse skal kontrolleres
-2026,B,el,Udendørs IP44 fordeling 4 udtag,149,,Shortlist,Stiktype og IP ved tilsluttet udstyr skal verificeres
+2026,A+B,styring,Et fælles Zigbee-smart-stik,299,,Afventer,Conservativ budgetreserve; den faktiske pris og Type K Schuko jord IP skal kontrolleres
+2026,A+B,el,Eksisterende forlængerledningsrække,0,,Afventer,Genbrug valgt forudsat sikkerhedskontrol; udbedring ikke prissat
 2026,A,montering,Tagrendekroge 20 pak gange 4,76,,Shortlist,Tilpas type og afstand efter tagrende
 2026,B,montering,Bindere og clips,80,,Estimat,Sikker aftagelig fastgørelse
 2026,A+B,el,Udendørs kabler,200,,Estimat,Kabelføring endnu ikke opmålt
