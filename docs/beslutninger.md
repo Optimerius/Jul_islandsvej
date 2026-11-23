@@ -14,6 +14,10 @@
 | 2026-11-01 | 2026 budgetramme 2.500 kr. | Første etape |
 | 2026-11-01 | Opdateret grundbudget 9.000 kr. over 2026-2029 | Tillæg til levende træer i 2027 |
 
+## Observation og mulig planændring, 23.11.2026
+
+Ejeren har vist billeder af en eksisterende udendørs stikdåse- og forlængerkabelrække under udhænget og oplyst, at tilslutning af én løs stikprop forsyner udtag langs huset. Det giver mulighed for **ét** Zigbee-stik og fælles tænd/sluk for julelys i stedet for to uafhængige zone-stik. **Intet er endeligt besluttet**, før kabler, stik, jord, vejrbeskyttelse, belastning og forsyningsforløb er kontrolleret. De gamle kabler må ikke automatisk genbruges. [Se teknisk vurdering](stroemfordeling-2026.md).
+
 ## Åbne beslutninger
 
 - Præcise mål og sikker måde at komme til tagrenden.
