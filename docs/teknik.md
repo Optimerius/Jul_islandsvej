@@ -2,14 +2,14 @@
 
 Dette er en **plan**, ikke en udført elinstallation eller en elektrikers projektering.
 
-**OBS 23.11.2026:** Under udhænget findes muligvis en fælles forsyningsledning, der kan gøre ét smart-stik tilstrækkeligt for alle områder. Det er **ikke endnu el-sikkerhedsverificeret**. Se [strømfordelingsplanen](stroemfordeling-2026.md#nyt-fund-23112026-fælles-eksisterende-forsyning-mulighed-for-kun-ét-smart-stik). Tabellen nedenfor beskriver fysisk lysopdeling. Uafhængige HA-zoner er nu kun en alternativ løsning.
+**Valgt design 23.11.2026:** Eksisterende fælles forsyningsledning under udhænget ønskes genbrugt med **ét smart-stik før fordelingskæden**. Kameraet forsynes separat via LAN/PoE og påvirkes ikke. Den ældre kabelføring er **ikke el-sikkerhedsverificeret**; alt videre indkøb/brug afhænger af kontrol. Se [strømfordelingsplanen](stroemfordeling-2026.md#nyt-fund-23112026-fælles-eksisterende-forsyning-mulighed-for-kun-ét-smart-stik). Tabellen nedenfor beskriver fysisk lysopdeling. Uafhængige HA-zoner er nu kun en alternativ løsning.
 
 ## Fysiske zoner
 
 | Zone | 2026? | Strømforsyning | Lys | HA |
 | --- | --- | --- | --- | --- |
-| A: Lang facade | Ja | Eksisterende udtag under tagrende, efter kontrol | Varmhvide istaplyskæder | Egen styring |
-| B: Carport og hoveddør | Ja | Eksisterende udtag ved hoveddør, efter kontrol | Carportforkant + granguirlander + indgangslys | Egen styring |
+| A: Lang facade | Ja | Eksisterende fælles forlængerledningsrække, kun efter kontrol | Varmhvide istaplyskæder | Fælles smart-stik |
+| B: Carport og hoveddør | Ja | Eksisterende fælles forlængerledningsrække, kun hvis alle udtag ligger efter samme fødestik | Carportforkant + granguirlander + indgangslys | Fælles smart-stik |
 | C: Hæk | Tidligst 2027 | Afklares | Varmhvidt lysnet/lyskæder | Egen styring |
 | D: Plantede juletræer | Tidligst 2027 | Afklares | Varmhvide lavvoltkæder | Egen styring |
 | E: Vinduer og evt. egen flisekant | Tidligst 2028 | Indendørs udtag / afklares | Stjerner / evt. lavvoltbelysning | Uafhængige zoner |
