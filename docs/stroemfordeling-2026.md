@@ -1,11 +1,11 @@
 # Strømfordeling og kabelplan, julelys 2026
 
-**Status: revideret 23.11.2026 efter fotos og oplysninger om eksisterende fælles kabelrække. Ikke godkendt til indkøb eller opsætning.**
+**Status: fælles tænd/sluk med ét smart-stik er valgt som design 23.11.2026, betinget af sikkerhedskontrol. Den gamle kabelføring er IKKE godkendt til brug endnu.**
 Udtag og kabler er vurderet ud fra fotos, ikke fysisk/el-teknisk inspiceret. Offentligt repository: ingen præcis placering, ledningsdiagram over husets faste installation eller personfølsomme oplysninger.
 
-## Nyt fund 23.11.2026: Fælles eksisterende forsyning, mulighed for kun ét smart-stik
+## Besluttet design 23.11.2026: Fælles forsyning med ét smart-stik, efter sikkerhedskontrol
 
-Ejeren har fotograferet en **eksisterende almindelig udendørs vægstikkontakt**, en separat **løs stikprop til den ældre kabelføring**, og flere kabel-/stikdele fastgjort langs udhænget. Ejeren oplyser, at når den løse stikprop tilsluttes, forsynes række af udtag langs huset. Fotografier er **ikke** uploadet i det offentlige repository.
+Ejeren har besluttet at **genbruge den eksisterende forlængerledningsrække**, hvis den kan anvendes sikkert. Ejeren har fotograferet en **eksisterende almindelig udendørs vægstikkontakt**, en separat **løs stikprop til den ældre kabelføring**, og flere kabel-/stikdele fastgjort langs udhænget. Ejeren oplyser, at når den løse stikprop tilsluttes, forsynes række af udtag langs huset. Fotografier er **ikke** uploadet i det offentlige repository.
 
 ### Primær kandidat, hvis den eksisterende kabelrække godkendes
 
@@ -19,13 +19,15 @@ flowchart TD
   HA[Home Assistant Zigbee2MQTT] -. tænd/sluk samlet .-> B
 ```
 
+**Kameraet forsynes med PoE via separat LAN-forbindelse og er **ikke** tilsluttet denne forsyningsrække. Der er ifølge ejeren udelukkende tilsluttet forlængerledninger til den omtalte fødeprop.**
+
 **Kritisk betingelse:** Alle valgte lysforsyninger skal i praksis være tilsluttet **bag det samme forsyningsstik**. Det er ikke bekræftet ud fra fotos, at alle endepunkter eller begge oprindelige strømudtag faktisk ligger bag ét stik. Smart-stikket afbryder kun den del af nettet, som er tilsluttet *efter* det.
 
 Konsekvens: Én HA-enhed styrer alt samtidig. Zonerne A og B er stadig **fysiske dekorationsområder**, men ikke uafhængige HA-zoner i denne variant. Fremtidige år kan flere individuelle smart-stik placeres downstream, hvis de er elektrisk og miljømæssigt egnede. **Alternativet med to smart-stik forbliver et dokumenteret fallback**, men er ikke længere førstevalget.
 
 ### Fotoobservationer og kritisk sikkerhedstjek
 
-- Der ses også **et overvågningskamera under udhænget**. Det vides ikke, hvor det får strøm fra. **Et fælles smart-stik vil slukke alle enheder nedstrøms**, også et eventuelt kamera eller andet udstyr, hvis det deler den gamle forsyning. Kontrollér at kabelrækken alene forsyner julelys, før den bruges som fælles tænd/sluk.
+- Ejeren har afklaret, at kameraet får strøm via PoE/LAN, uafhængigt af den gamle kabelrække. Der kan stadig være ukendte forbrugere, hvis kablernes endepunkter ikke er kontrolleret, men kameraet skal ikke regnes med.
 - Første udendørs vægudtag **ser ud til** at være dansk Type K med jord. Kan ikke fastslås sikkert alene fra billedet, at jordlederen er tilsluttet og virksom.
 - Den løse stikprop ser ud til at have **to ben** og tilhører efter oplysning den eksisterende forsyning. Undersøg om beskyttelsesjord overhovedet føres med videre, hvis der er klasse I-udstyr nedstrøms.
 - Under udhænget ses en **ældre to-hullet stikdåse**, synlige kabler og snavs/spindelvæv. Fotos dokumenterer **ikke** kapslingsklasse, udendørs egnethed, kabeltype, tilstand eller korrekt montering.
