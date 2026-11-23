@@ -2,11 +2,11 @@
 
 **Opdateret 21.11.2026. Status: Research / shortlist. INGEN varer er købt.**
 
-**VIGTIGT 23.11.2026: Der findes en tidligere etableret forsyningskæde langs udhænget. Hvis den efter sikkerhedskontrol kan bruges, kan ét Zigbee-stik styre alt, så 2-pak ikke er nødvendig. Kabelkæden ser ældre ud og kræver kontrol før brug; dens beskyttelsesjord og IP-forhold er ukendte. Der må ikke bestilles på baggrund af de tidligere 2-zone-antagelser uden revision.** Læs [vurderingen](stroemfordeling-2026.md#nyt-fund-23112026-fælles-eksisterende-forsyning-mulighed-for-kun-ét-smart-stik).
+**BESLUTNING 23.11.2026: Eksisterende forlængerledningsrække langs udhænget ønskes genbrugt og styret med ét Zigbee-smart-stik efter sikkerhedskontrol. Kameraet får separat PoE via LAN. Der skal derfor som udgangspunkt købes ét smart-stik i stedet for en 2-pak. Kabelkæden ser ældre ud og kræver kontrol før brug; dens beskyttelsesjord og IP-forhold er ukendte. Der må ikke bestilles på baggrund af de tidligere 2-zone-antagelser uden revision.** Læs [vurderingen](stroemfordeling-2026.md#nyt-fund-23112026-fælles-eksisterende-forsyning-mulighed-for-kun-ét-smart-stik).
 
-**Strømfordeling er ikke købeklar.** Se [den særskilte el- og kabelføringsplan](stroemfordeling-2026.md). Den eksisterende liste på 2.483,75 kr. er **ikke et endeligt tilbud**: alle fire transformere skal kunne sidde i den valgte fordeling med korrekt IP-beskyttelse, og ledningslængder/stik/jord mangler kontrol. Goobay-kandidat er set til 111 kr. 21.11.2026; Elworks IP54-boks set til ca. 78 kr., men kan kun bruges inden for sine kabeldiameterkrav. Begge er uafklarede kandidater, ikke godkendte køb.
+**Strømfordeling er endnu ikke godkendt til brug.** Se [den særskilte el- og kabelføringsplan](stroemfordeling-2026.md). Den eksisterende liste på 2.483,75 kr. er **ikke et endeligt tilbud**: alle fire transformere skal kunne sidde i den valgte fordeling med korrekt IP-beskyttelse, og ledningslængder/stik/jord mangler kontrol. Goobay-kandidat er set til 111 kr. 21.11.2026; Elworks IP54-boks set til ca. 78 kr., men kan kun bruges inden for sine kabeldiameterkrav. Begge er uafklarede kandidater, ikke godkendte køb.
 
-Der er to lyszoner: A facade og B carport + hoveddør. Den kendte Zigbee-platform i Home Assistant er **Zigbee2MQTT** (MQTT-integration aktiv, ZHA-konfiguration ignoreret). Udendørs rækkevidde og stiktype/jordforbindelse skal fortsat testes.
+Der er **én valgt HA-styringsgruppe** med to fysiske områder: A facade og B carport + hoveddør. Den kendte Zigbee-platform i Home Assistant er **Zigbee2MQTT** (MQTT-integration aktiv, ZHA-konfiguration ignoreret). Udendørs rækkevidde og stiktype/jordforbindelse skal fortsat testes.
 
 ## Opmålte mål
 
@@ -27,14 +27,14 @@ Der er to lyszoner: A facade og B carport + hoveddør. Den kendte Zigbee-platfor
 | B forkant | Sirius Easy-Line 40 LED, 3,9 m, varmhvid, med transformer og 5 m tilledning | 1 | 3,90 m | **59,00 kr.** |
 | B fysisk gran | Nowel granguirlande uden lys, **2,7 m** (knyttes sammen / bøjes, ikke afkortes) | 4 | 10,80 m | **196,00 kr.** |
 | B lys på gran | Sirius Easy-Line 80 LED, **7,9 m**, hver sin transformer og 5 m tilledning | **3** | 23,70 m fordelt på 3 selvstændige kæder | **237,00 kr.** |
-| A + B HA | Nous A6Z udendørs Zigbee smart-stik, IP44, 2-pak | 1 pakke | 2 uafhængige zoner | **299,00 kr.** |
-| B fordeling | 4-vejs IP44 udendørs stikdåse, fx Goobay Type F | 1 | 4 selvstændige transformere i zone B | **149 kr.** |
+| A + B HA | Ét egnet udendørs Zigbee-smart-stik, model afventer verificering af stik/jord og IP | 1 stk. | Fælles tænd/sluk | **Pris afventer** |
+| B fordeling | Eksisterende udendørs forlængerledningsrække, efter sikkerhedskontrol | 1 kæde | Fordeling på flere udtag, fysisk kontrol af endepunkter | **0 kr. hvis egnet** |
 | A ophæng | Kroge til lyskæder/tagrende, fx jem & fix, 20 stk/pakke | 4 pakker | 80 kroge, omtrentlig afstand 19 cm | **76 kr.** |
 | B ophæng | Bindere/clips og ikke-skadende fastgørelse | 1 pulje | Afventer montagevalg | **80 kr. (skøn)** |
 | A+B el | Egnet udendørs forlængerkabel og ledningsføring | 1 pulje | **Afventer kabelopmåling** | **200 kr. (skøn)** |
 | B samlinger | Egnet beskyttelsesboks/forbindelsesbeskyttelse efter stik og vejreksponering | 1 pulje | IP-egnethed skal verificeres med stik monteret | **100 kr. (skøn)** |
 | Reserve | Fragt, mindre ændringer, tillæg | 1 pulje | | **200 kr. (skøn)** |
-| | **Samlet forslag** | | | **2.483,75 kr.** |
+| | **Samlet forslag** | | | **2.483,75 kr. (gammelt 2-stik-scenarie, ikke gældende tilbud)** |
 
 **Bemærk:** Det er ikke en samlet tilbuds- eller leveringspris. Kæder og grundpriser er hentet hos forhandlere 20.11.2026. Kabler, bokse, fastgørelsesmateriale, fragter og reel lagerstatus kræver kontrol før køb. Eventuel betalt montering er **ikke** inkluderet. De 2.500 kr. er et loft, og en nødvendig sikkerhedsløsning kan få os til at nedprioritere en dekoration.
 
@@ -54,7 +54,7 @@ Der er to lyszoner: A facade og B carport + hoveddør. Den kendte Zigbee-platfor
 
 ### Strøm i zone B
 
-Ét udendørs smart-stik styrer en 4-vejs udendørs fordeling med **fire transformere**: venstre side, højre side, hoveddør og forkant. De almindelige Easy-Line-kæder har **5 m tilslutningsledning hver, men kan ikke udbygges med vilkårlig 31V-forlænger**. Alle kabelveje skal måles. Kun når smart-stik, fordeling, stik-/jordforbindelse og belastning er egnede. Fordelingen skal have passende IP-klassifikation **under faktisk brug med tilsluttede stik**, monteres korrekt og beskyttes i henhold til producentens anvisninger.
+Ét udendørs smart-stik foran den eksisterende forlængerledningsrække styrer alle kæderne samlet. Rækken skal først godkendes til brug med **fire transformere ved carporten**: venstre side, højre side, hoveddør og forkant. De almindelige Easy-Line-kæder har **5 m tilslutningsledning hver, men kan ikke udbygges med vilkårlig 31V-forlænger**. Alle kabelveje skal måles. Kun når smart-stik, fordeling, stik-/jordforbindelse og belastning er egnede. Fordelingen skal have passende IP-klassifikation **under faktisk brug med tilsluttede stik**, monteres korrekt og beskyttes i henhold til producentens anvisninger.
 
 ## Kilder / produktlinks
 
@@ -70,7 +70,7 @@ Der er to lyszoner: A facade og B carport + hoveddør. Den kendte Zigbee-platfor
 ## Stop før checkout
 
 1. Kontrollér **Sirius Top-Line startsæt + 5 forlængere** er den samme kompatible serie/variant, og at transformeren kan drive 600 LED.
-2. Kontrollér to NOUS A6Z kan parres på jeres Zigbee2MQTT og om udendørs signal er godt nok. **Valg er ikke godkendt til køb endnu.**
+2. Kontrollér ét passende Zigbee-smart-stik kan parres på jeres Zigbee2MQTT og om udendørs signal er godt nok. **Valg er ikke godkendt til køb endnu.**
 3. Kontrollér **danske stik/jordforbindelser** og om den konkrete 4-vejs fordeling kan bruges med de 4 transformere og smart-stikkets udtag. Ingen improviserede adaptere.
 4. Kontrollér længde fra carportens eksisterende udtag til **hver af de fire transformeres placeringer**; de 5 m tilledninger er produktlængder, ikke garanteret tilstrækkelig tilledning.
 5. Kontrollér tagrendetype, clips og sikker adgang til højde.
