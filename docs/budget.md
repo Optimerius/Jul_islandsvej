@@ -7,6 +7,8 @@ Dato for grundbudget: 2026-11-01. Konkret produktshortlist opdateret 2026-11-20.
 **Valgt princip 23.11.2026:** Ejeren ønsker at genbruge den eksisterende fælles kabelrække under udhænget, muligvis fødet via én løs stikprop. Hvis den er dokumenteret sikker og forsyner alle relevante lys, skal **ét** udendørs Zigbee-smart-stik bruges til fælles styring. Tidligere budget på 2.483,75 kr. er **gammel 2-stik-reference**, ikke endeligt budget. I den nye plan bortfalder den planlagte separate 4-vejs fordeling til 149 kr. og behovet reduceres til ét smart-stik. Udskiftning af den eksisterende kabelkæde kan dog koste mere end besparelsen. Én-stik-pris er ikke fastsat, da produkt, Type K/Schuko-adapter, IP-forhold og om den eksisterende kabelføring bør erstattes endnu er uafklaret. Sæt ikke forventede besparelser ind, før det er afklaret. Se [strømfordelingsplan](stroemfordeling-2026.md).
 
 
+**OBS:** Beløb afhænger af kabelrækkens tilstand, hvilken smart-plug-model der passer til dansk udendørs udtag, og korrekt jord/IP. Der er ikke prissat eventuel udbedring. Ingen køb er gennemført.
+
 Se [dokumenteret indkøbsliste](indkoeb-2026.md) for priser, produkter, mængder og begrænsninger.
 
 | Post | Foreløbig sum |
