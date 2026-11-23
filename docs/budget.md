@@ -4,6 +4,9 @@ Dato for grundbudget: 2026-11-01. Konkret produktshortlist opdateret 2026-11-20.
 
 ## 2026, loft 2.500 kr.
 
+**Ny mulighed 23.11.2026:** Ejeren har oplyst om en eksisterende fælles kabelrække under udhænget, muligvis fødet via én løs stikprop. Hvis den er dokumenteret sikker og forsyner alle relevante lys, kan **ét** udendørs Zigbee-smart-stik være nok. Tidligere budget på 2.483,75 kr. er **gammel 2-plug-reference**, ikke endeligt budget. Én-stik-pris er ikke fastsat, da produkt, Type K/Schuko-adapter, IP-forhold og om den eksisterende kabelføring bør erstattes endnu er uafklaret. Sæt ikke forventede besparelser ind, før det er afklaret. Se [strømfordelingsplan](stroemfordeling-2026.md).
+
+
 Se [dokumenteret indkøbsliste](indkoeb-2026.md) for priser, produkter, mængder og begrænsninger.
 
 | Post | Foreløbig sum |
