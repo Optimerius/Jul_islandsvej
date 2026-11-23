@@ -18,6 +18,10 @@
 
 Ejeren har vist billeder af en eksisterende udendørs stikdåse- og forlængerkabelrække under udhænget og oplyst, at tilslutning af én løs stikprop forsyner udtag langs huset. Det giver mulighed for **ét** Zigbee-stik og fælles tænd/sluk for julelys i stedet for to uafhængige zone-stik. **Intet er endeligt besluttet**, før kabler, stik, jord, vejrbeskyttelse, belastning og forsyningsforløb er kontrolleret. De gamle kabler må ikke automatisk genbruges. [Se teknisk vurdering](stroemfordeling-2026.md).
 
+## Valg 23.11.2026: eksisterende forlængerkabelrække og ét smart-stik
+
+Ejeren bekræfter, at kameraet får strøm fra LAN/PoE og ikke via kabelrækken. Kablerne langs udhænget bruges alene til eksisterende forlængerledninger. Valgt til 2026: Genbrug dem til julelyset og brug **ét** fælles Zigbee-smart-stik, forudsat at række, udtag og samlinger efter kontrol er egnede til udendørs brug. Ingen el-sikkerhedsgodkendelse er foretaget, og ingen køb eller installation er udført. Kontrollér stiktype, jord, RCD/HPFI, IP/vejrbeskyttelse, kabeltype, skader, belastning og om alle lys er tilsluttet efter samme fødeprop. Hvis kablerne ikke er egnede, udskiftes de på sikker vis. Separat zoneopdeling er ikke målet i 2026.
+
 ## Åbne beslutninger
 
 - Præcise mål og sikker måde at komme til tagrenden.
