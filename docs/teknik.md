@@ -47,7 +47,7 @@ Den konkrete shortlist findes i [indkoeb-2026.md](indkoeb-2026.md). **Strømford
 - **Carportforkant:** én separat Easy-Line kæde på 3,9 m.
 - **Lodrette carportsider:** hver sin 2,7 m granguirlande og **hver sin 7,9 m varmhvide lyskæde**. Det er nødvendigt for at undgå at forbinde siderne med en utilstrækkelig kæde hen over den næsten 4 m brede top.
 - **Hoveddør:** to mekanisk sammensatte guirlander på 2,7 m (5,4 m total) og **sin egen 7,9 m varmhvide lyskæde**. Placer cirka 12 cm guirlandeoverskud uden at afkorte.
-- **Samlet carport:** 4 separate 230V/transformer-tilslutninger bag ét smart-stik og en egnet 4-vejs udendørs strømfordeling. Kræver kontrol af stik, IP, strømforbrug og ledningslængder.
+- **Samlet carport:** 4 separate transformer-tilslutninger fordeles på de eksisterende udtag, hvis de er sikre og alle ligger bag samme fødeprop og ét fælles smart-stik. Kræver kontrol af stik, IP, strømforbrug og ledningslængder.
 
 Zigbee2MQTT og MQTT er konstateret i den tilsluttede Home Assistant, og ZHA er ikke aktiv. NOUS A6Z er en officielt understøttet Zigbee2MQTT-enhed, men den konkrete smart-stikmodel, jordforbindelse og udendørs dækning skal fortsat afklares før køb.
 
