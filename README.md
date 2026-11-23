@@ -2,7 +2,7 @@
 
 Et flerårigt projekt for julebelysning af hus, carport og have, styret via Home Assistant (HA).
 
-**Status pr. 23. november 2026:** Opmåling og revideret indkøbsshortlist. Eksisterende fælles udendørs kabelføring undersøges for **mulig styring med ét smart-stik**, men skal kontrolleres for el-sikkerhed før brug. Ingen indkøb, montering eller HA-integration er registreret som gennemført.
+**Status pr. 23. november 2026:** Opmåling og revideret indkøbsshortlist. Fælles tænd/sluk med **ét smart-stik** er valgt som 2026-design. Den eksisterende ledningsrække under udhænget ønskes genbrugt, men skal kontrolleres for el-sikkerhed før brug. Kamera har separat PoE-forsyning og påvirkes ikke. Ingen indkøb, montering eller HA-integration er registreret som gennemført.
 
 ## Målet
 
