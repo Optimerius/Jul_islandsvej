@@ -34,7 +34,7 @@ Der er **én valgt HA-styringsgruppe** med to fysiske områder: A facade og B ca
 | A+B el | Egnet udendørs forlængerkabel og ledningsføring | 1 pulje | **Afventer kabelopmåling** | **200 kr. (skøn)** |
 | B samlinger | Egnet beskyttelsesboks/forbindelsesbeskyttelse efter stik og vejreksponering | 1 pulje | IP-egnethed skal verificeres med stik monteret | **100 kr. (skøn)** |
 | Reserve | Fragt, mindre ændringer, tillæg | 1 pulje | | **200 kr. (skøn)** |
-| | **Samlet forslag** | | | **2.483,75 kr. (gammelt 2-stik-scenarie, ikke gældende tilbud)** |
+| | **Samlet skøn, hvis eksisterende række kan genbruges uden udbedring** | | | **2.334,75 kr.** |
 
 **Bemærk:** Det er ikke en samlet tilbuds- eller leveringspris. Kæder og grundpriser er hentet hos forhandlere 20.11.2026. Kabler, bokse, fastgørelsesmateriale, fragter og reel lagerstatus kræver kontrol før køb. Eventuel betalt montering er **ikke** inkluderet. De 2.500 kr. er et loft, og en nødvendig sikkerhedsløsning kan få os til at nedprioritere en dekoration.
 
