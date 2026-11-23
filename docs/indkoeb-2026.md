@@ -2,7 +2,9 @@
 
 **Opdateret 21.11.2026. Status: Research / shortlist. INGEN varer er købt.**
 
-**VIGTIGT: Strømfordeling er ikke købeklar.** Se [den særskilte el- og kabelføringsplan](stroemfordeling-2026.md). Den eksisterende liste på 2.483,75 kr. er **ikke et endeligt tilbud**: alle fire transformere skal kunne sidde i den valgte fordeling med korrekt IP-beskyttelse, og ledningslængder/stik/jord mangler kontrol. Goobay-kandidat er set til 111 kr. 21.11.2026; Elworks IP54-boks set til ca. 78 kr., men kan kun bruges inden for sine kabeldiameterkrav. Begge er uafklarede kandidater, ikke godkendte køb.
+**VIGTIGT 23.11.2026: Der findes en tidligere etableret forsyningskæde langs udhænget. Hvis den efter sikkerhedskontrol kan bruges, kan ét Zigbee-stik styre alt, så 2-pak ikke er nødvendig. Kabelkæden ser ældre ud og kræver kontrol før brug; dens beskyttelsesjord og IP-forhold er ukendte. Der må ikke bestilles på baggrund af de tidligere 2-zone-antagelser uden revision.** Læs [vurderingen](stroemfordeling-2026.md#nyt-fund-23112026-fælles-eksisterende-forsyning-mulighed-for-kun-ét-smart-stik).
+
+**Strømfordeling er ikke købeklar.** Se [den særskilte el- og kabelføringsplan](stroemfordeling-2026.md). Den eksisterende liste på 2.483,75 kr. er **ikke et endeligt tilbud**: alle fire transformere skal kunne sidde i den valgte fordeling med korrekt IP-beskyttelse, og ledningslængder/stik/jord mangler kontrol. Goobay-kandidat er set til 111 kr. 21.11.2026; Elworks IP54-boks set til ca. 78 kr., men kan kun bruges inden for sine kabeldiameterkrav. Begge er uafklarede kandidater, ikke godkendte køb.
 
 Der er to lyszoner: A facade og B carport + hoveddør. Den kendte Zigbee-platform i Home Assistant er **Zigbee2MQTT** (MQTT-integration aktiv, ZHA-konfiguration ignoreret). Udendørs rækkevidde og stiktype/jordforbindelse skal fortsat testes.
 
